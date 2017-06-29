@@ -1,0 +1,48 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.hText {
+    font-family: 'Freehand';
+    font-size: 32px;
+}
+.pText {
+    font-family: 'Freehand';
+    font-size: 16px;
+}
+
+.antiquity {
+    height: 300px;
+    width: 200px;
+    border: #DDDDDD 2px solid;
+    background-color: #EDFDFF;
+    position: absolute;
+    top: 72px;
+    left: 30px;
+}
+.middle {
+    height: 300px;
+    width: 200px;
+    border: #DDDDDD 2px solid;
+    background-color: #EDFDFF;
+    position: absolute;
+    top: 72px;
+    left: 250px;
+}
+.rebirth {
+    height: 300px;
+    width: 200px;
+    border: #DDDDDD 2px solid;
+    background-color: #EDFDFF;
+    position: absolute;
+    top: 72px;
+    left: 470px;
+}
+.image {
+    width: 200px;
+    border: #CFFF4F 2px solid;
+}
+.link {
+    position: absolute;
+    top: 500px;
+}

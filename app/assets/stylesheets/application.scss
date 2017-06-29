@@ -1,0 +1,24 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+.index {
+    position: absolute;
+    top : 200px;
+    background-color: #AAAAAA;
+}
+.navText {
+    font-family: 'Freehand';
+    font-size: 24px;
+}
+
+.navbar {
+    position: absolute;
+    top: 0px !important;
+    width: 1919px !important;
+}
+.indexTitle {
+    position: absolute;
+    top: 100px;
+}
+
